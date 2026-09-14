@@ -2,9 +2,9 @@
 
 ## Canonical Timeline and Continuity Guide
 
-**Version:** 0.3  
+**Version:** 0.4  
 **Divergence point:** 1 March 1476  
-**Current review horizon:** 1576  
+**Current review horizon:** 1626  
 **Outline horizon:** late 1930s  
 
 This file is the working canon for an alternate history in which Portugal and the supporters of Joanna of Castile win a decisive victory at the Battle of Toro. The result is not an instant Portuguese annexation of Castile, but a durable dynastic union that redirects European state formation, Atlantic exploration, religious change, colonialism, slavery, and revolutionary politics.
@@ -253,16 +253,185 @@ There is no Potosí or Mexican silver flood. The Western Crowns depend heavily u
 
 **Overall verdict:** the period forms a credible second-stage divergence once its wars are treated as connected struggles and Protestant “failure” is defined as the loss of secure political coordination. Its most innovative but still plausible development is contact medicine: an empirical public-health tradition founded on unusually visible comparisons among ships, mixed coastal communities, and less-exposed interiors.
 
-### 1576–1626 — The northern contact world
+### 1576–1626 — The Age of Harbor Compacts
 
-**Status: provisional canon.**
+**Status: reviewed canon.**
 
-- English, French, Dutch, Breton, and some German interests maintain fisheries, seasonal stations, trading factories, missions, and small settlement attempts along the North Atlantic coast.
-- Most European settlements survive by charter or treaty under Indigenous sovereignty rather than through immediate conquest.
-- Repeated epidemics remain disastrous but geographically staggered. Political institutions survive in many regions, enabling demographic recovery and organized quarantine, migration, diplomacy, and adoption.
-- Firearms, metalworking techniques, sailing knowledge, alphabetic print, and European livestock spread unevenly. American crops and medical knowledge move east in return.
-- Protestant refugee communities become linguistically and culturally dependent on host nations. Imported confessional disputes begin to change under Indigenous scrutiny.
-- The Western Crowns concentrate on Africa, the Indian Ocean, and enforcing their southern maritime claims rather than undertaking a rapid conquest of mainland America.
+#### 3.1 Leonor's mature monarchy
+
+By 1576 Leonor I, later remembered as Leonor of the Three Crowns, presides over a powerful but still composite monarchy. Portugal, Castile, and Aragon retain separate laws, estates, taxes, and offices. The Council of the Three Crowns, common diplomatic secretariat, convoy administration, conferences of the Cortes, royal posts, and cross-crown arbitration allow cooperation without creating a centralized nation-state.
+
+Leonor's husband is **Filipe Emanuel of Savoy-Racconigi**, a fictional younger prince of a Savoyard cadet branch. Under the Marriage Articles of Zaragoza he receives the dignity of Infante-Consort but no independent royal authority, revenue, appointments, or succession rights. Their children belong solely to the House of Aviz-Trastámara.
+
+Their eldest child, Isabel, is trained openly as heir. Her younger brothers develop complementary roles: Afonso becomes the dynasty's leading administrator, while Henrique builds a career in the navy and oceanic government. Leonor's reliance upon personal arbitration remains the union's principal weakness.
+
+#### 3.2 Isabel's accession
+
+Leonor dies around 1603. Her widowed eldest daughter, already the mother of surviving children, succeeds separately as **Isabel I of Portugal, Isabel II of Castile, and Isabel I of Aragon**. Later historians often call her Isabel II of the Three Crowns, although that Castilian numbering remains politically contentious.
+
+Her accession causes a short constitutional crisis but no general war. Each realm demands confirmation of its laws and privileges. Factions approach Afonso as the senior adult male, but he publicly recognizes Isabel. Henrique places the principal fleet under her authority. Separate oaths and negotiations culminate in an accession compact commonly associated with Coimbra.
+
+Isabel is a consolidator rather than a second Leonor. She governs through preparation, delegation, provincial negotiation, and written procedure. Afonso coordinates law, revenue, and inter-crown administration. Henrique becomes Captain-General of the Ocean and establishes a maritime cadet branch without receiving an independent Brazilian government. The siblings' cooperation proves that the Three Crowns can survive beyond their founder, while their different constituencies plant later divisions between fiscal restraint, provincial compact, and oceanic expansion.
+
+#### 3.3 Tudor survival and limited English reform
+
+Catherine of Aragon's altered dynastic position removes the historical English marriage. Henry VIII instead marries **Eleanor of Austria**, a match considered during Henry VII's final years in actual history. They produce a surviving Tudor son.
+
+Without the historical Great Matter, England experiences no royal break with Rome, no historical sequence of Henry's six marriages, and no childless succession through Edward VI, Mary I, and Elizabeth I. Henry VIII still asserts extensive royal influence over ecclesiastical appointments, taxation, and law, but England remains formally Catholic.
+
+Their adult son, provisionally Henry IX, develops a Catholic-humanist royal church settlement. A later Tudor issues the **Tudor Concord**, granting narrow and revocable protection to licensed reformist congregations while prohibiting armed religious leagues and unauthorized printing. Protestantism remains persistent among merchants, lesser gentry, towns, and clandestine presses, but it does not capture the state.
+
+Emigration becomes easier than sustained political struggle. English reformers, printers, artisans, physicians, and families join northern host settlements. The Tudor government welcomes the removal of troublesome dissenters while fearing communities beyond effective royal control.
+
+The direct Tudor line survives. Scotland remains an independent Stuart kingdom with a collateral claim to England, a weaker and more divided Reformation, and continuing ties to France. There is no Stuart union of the English and Scottish crowns and no historical English Civil War in the seventeenth century.
+
+#### 3.4 The Scheldt Compact
+
+Revolt still develops in the Low Countries from taxation, commercial privilege, religious repression, and Burgundian-Austrian Habsburg centralization. It is not the historical Dutch Revolt against a Spanish Habsburg monarchy.
+
+A series of settlements during the late 1580s and 1590s, collectively remembered as the **Scheldt Compact**, gives northern provinces and cities extensive autonomy. Provincial estates control taxation and naval expenditure. Reformed congregations receive legal protection while Catholic institutions remain lawful in several territories. Habsburg sovereignty survives as a diplomatic fiction, but by 1626 the northern federation conducts commerce and maritime policy almost independently.
+
+The Scheldt remains commercially open. Dutch-speaking merchants, joined by German capital and expertise, become major competitors in the North Atlantic and Asia. German participation remains chiefly commercial, technical, and confessional rather than forming a German colonial empire.
+
+#### 3.5 Indigenous-governed harbor compacts
+
+Northern European contact becomes permanent without producing a belt of sovereign settler colonies. Most durable foreign communities occupy designated quarters under charters issued by Indigenous hosts. Port councils possess practical autonomy over docks, warehouses, sanitation, markets, quarantine, and internal foreign disputes but not surrounding territory, inland settlement, diplomacy, or war.
+
+Representative ports include:
+
+- **Tadoussac**, an Innu-controlled gateway linking French, Basque, Dutch, and river trade;
+- **Kjipuktuk**, a Mi'kmaq-hosted Gulf and Bay of Fundy harbor with French, Breton, English, and Dutch communities;
+- a **Hudson estuary compact**, where Dutch merchants operate through agreements with Lenape hosts and Mohican trading partners rather than territorial sovereignty;
+- **New Bristol**, a small English Chesapeake settlement that survives only after accepting guest or tributary status within the Powhatan political order;
+- **Trimount**, also known through Massachusett names associated with the Shawmut peninsula, a primarily English-speaking but mixed Dutch and French harbor under Massachusett sovereignty.
+
+Trimount grows from a seasonal harbor into a permanent municipality during the early seventeenth century. It remains small—probably only a few thousand permanent inhabitants by 1626—and its influence comes from shipping, health administration, diplomacy, and printing. Different communities use different names for it. It never becomes the capital of a chain of English settler colonies.
+
+These ports plant the foundations of later autonomous municipalities integrated into American nations and federations. They are not predecessors of thirteen independent colonies.
+
+#### 3.6 The Laurentian diaspora and Council of the Great River
+
+The large sixteenth-century Saint Lawrence towns do not survive unchanged. Epidemic disease, warfare, and migration disperse Laurentian communities toward Wendat, Haudenosaunee, Innu, Algonquin, and multilingual river settlements.
+
+Laurentian people nevertheless survive through families, ceremonies, specialist knowledge, language communities, and political networks. Several small settlements retain a living Laurentian language alongside widespread multilingualism.
+
+Between approximately 1605 and 1615, river communities develop a **Council of the Great River** to coordinate passage, seasonal markets, diplomatic access, epidemic closure, refugee movement, and compensation for violence. It is not a restored Laurentian state, although Laurentian-descended interpreters are particularly influential. Later European accounts describe a disappearance where Indigenous histories describe diaspora, adoption, and reconstitution.
+
+#### 3.7 Contact medicine and the Articles of Tadoussac
+
+A severe epidemic during the late 1580s, intensified by a shipmaster's concealment of sickness, prompts the **Articles of Tadoussac**, negotiated around 1591 by Innu authorities, river communities, and foreign merchants.
+
+The articles require health declarations, quarantine anchorages, provisioning of isolated crews, symptom and mortality records, notification of connected communities, host authority to close markets, penalties for concealment, and compensation for harmful violations. Similar provisions spread to other ports without creating a centralized Atlantic health authority.
+
+Intermarriage contributes through caregiving networks, multilingual warning, adoption, migration, and accumulated exposure rather than immediate inherited immunity. Connected coastal communities become more resilient to familiar infections but also more capable of carrying disease into less-exposed interiors.
+
+An epidemic analogous to the historical 1616–1619 coastal disaster strikes New England between approximately 1616 and 1620. Mortality remains catastrophic and uneven. Health closures and prior experience reduce losses in some ports, including Trimount, while less-connected communities suffer far more severely. Massachusett political institutions survive through coordinated relief, relocation, and incorporation.
+
+Reports of deliberate smallpox inoculation travel from China through Macao, Goa, Lisbon, African contacts, and Atlantic correspondence. Tiny experiments occur at Tadoussac and Trimount during the early seventeenth century. Results are disputed; some subjects appear protected, others become dangerously ill, and at least one experiment may spread infection. No government recommends general inoculation by 1626.
+
+#### 3.8 Indigenous print and the Tadoussac Dialogues
+
+A few presses arrive through missionaries and Protestant refugees. Indigenous councils and harbor families rapidly recognize their utility for treaties, health notices, laws, trade rules, diplomatic speeches, and the preservation of public knowledge.
+
+Alphabetic writing supplements rather than replaces oral recitation, wampum, pictorial systems, ceremony, and place-based memory. Indigenous translators determine how their languages are represented and debate dialect, ownership, restricted knowledge, and whether fixing a story in print removes it from its proper speaker or setting.
+
+The first major religious work is not a translated Bible. Between approximately 1615 and 1623, translators compile a comparative work in which Catholic and Protestant teachers explain conflicting doctrines and Indigenous thinkers question, compare, criticize, and answer them. European cataloguers mistake an opening rubric for the title and call it **The Book of Questions**. Much later, scholars fluent in the relevant Indigenous languages recognize its intended title and literary form as **The Tadoussac Dialogues**.
+
+The work paraphrases selected biblical passages but does not represent mass conversion. Its disputes over covenant, kingdom, dominion, property, kinship, wrongdoing, and obedience create the intellectual foundations for later American New Protestantism. Direct scripture translation remains partial; complete New Testaments and Bibles belong to later periods.
+
+Indigenous-controlled print also records migration histories, laws, epidemic accounts, medicinal knowledge, genealogies, public stories, and treaty interpretations. Sacred or restricted knowledge frequently remains outside print.
+
+#### 3.9 The War of the Imperial Compacts
+
+A Bohemian and German constitutional-confessional crisis expands into the **War of the Imperial Compacts**, approximately 1618–1625. Protestant leagues remain politically fragmented. France assists anti-Habsburg interests selectively but refuses to become a reliable Protestant champion. England offers mediation and accepts refugees without entering the war. The Western Crowns provide Austria with limited credit, supplies, and diplomatic support rather than an overwhelming army.
+
+Poland-Lithuania officially remains neutral, but its crown and Catholic magnates permit Habsburg agents to recruit highly mobile Commonwealth cavalry. Their intervention disrupts a Transylvanian advance and relieves pressure on Austria. Continued Safavid pressure upon the Ottoman Empire indirectly limits Ottoman support for Austria's enemies.
+
+Austria defeats the principal Bohemian opposition but cannot impose confessional uniformity throughout the Empire. The negotiated settlement is presented as an Austrian victory while preserving substantial princely and urban privileges. The war sends ministers, printers, physicians, artisans, teachers, and soldiers toward the Low Countries, England, Baltic ports, and North America.
+
+Historical figures appear only where their altered biographies remain credible. Military and political functions are otherwise assigned to fictional leaders rather than reproducing the Thirty Years' War under new names.
+
+#### 3.10 Brazil and the beginnings of the Henriquist interest
+
+Leonor continues to restrict Brazil to forts, trading stations, missions, and experimental agricultural districts. After approximately 1610, Isabel authorizes a limited number of fortified settlements and sugar enterprises in response to smuggling and northern European competition.
+
+Henrique argues for anchorages, repair yards, supply farms, pilots, and garrisons. Merchants argue that sugar can finance this defensive infrastructure. Isabel accepts limited settlement but separates naval command from civil government and denies Henrique a personal Brazilian territorial base.
+
+Indigenous resistance, disease, limited migration, capital shortages, Asian and African commitments, missing American silver, inter-crown rivalry, and Isabel's fiscal caution prevent rapid conquest. African enslavement grows but remains far below its later scale.
+
+By 1626, sugar investors, shipowners, slave traders, naval officers, colonial grantees, and Henrique's clients form an identifiable **Henriquist or Oceanic interest**. Henrique himself favors defensible maritime infrastructure; later generations convert that program into plantation imperialism.
+
+#### 3.11 Poland-Lithuania and the distributed Prussian role
+
+Polish-Lithuanian intervention in the Imperial Compacts war does not by itself save the Commonwealth. It establishes a reputation for mobile Commonwealth officers while temporarily strengthening royal and Catholic diplomacy.
+
+The Commonwealth remains vulnerable to elective politics, magnate power, weak taxation, confessional tension, Russian and Swedish pressure, Cossack and Ruthenian grievances, and later parliamentary paralysis. It will suffer major seventeenth-century wars and territorial losses.
+
+Its long-term survival is nevertheless a canonical direction. No unified Prussia arises to complete the historical partitioning coalition. Poland-Lithuania eventually reforms as a reduced multinational federation and negotiates a broader relationship with Ruthenian and Cossack institutions.
+
+Prussia's historical functions are distributed rather than erased:
+
+- Austria develops parts of the bureaucratic and military role;
+- Poland-Lithuania supplies internationally renowned officers, cavalry doctrine, coalition experience, and military theory;
+- smaller German states develop rival schools of administration, drill, artillery, and nationalism;
+- Sweden, the Scheldt federation, Russia, France, England, and Iberia absorb other Baltic, commercial, and strategic functions.
+
+Poland-Lithuania becomes a great military school without a Prussian-style centralized state. Its commanders and theorists serve in later European and American wars, including the development of Great Lakes cavalry and mobile warfare. A later Polish-Lithuanian thinker fills part of Clausewitz's intellectual role, but no Commonwealth government consistently converts that excellence into unified state power.
+
+#### 3.12 Reverberations beyond the core regions
+
+- The Western Crowns remain strong in Goa, Malacca, Macao, West and Central African ports, and other oceanic positions, but Dutch and English companies increasingly challenge them.
+- Without Mexican or Potosí silver and without a Manila-Acapulco system, Japanese silver and intra-Asian credit remain unusually important.
+- African forts and diplomacy receive more Iberian attention than American conquest. The slave trade grows but has not yet acquired the later scale produced by mature Brazilian and Caribbean plantations.
+- Kongo, Ndongo, and other African powers retain substantial diplomatic and military leverage.
+- Safavid victories and Ottoman-Safavid war affect the European balance indirectly by limiting Ottoman opportunities in Central Europe.
+- Russia recovers from its internal crisis but remains constrained in the west by a surviving Poland-Lithuania.
+- American and European plants, animals, and medicines circulate unevenly. Maize and tobacco spread eastward; potatoes spread more slowly without sustained Andean conquest. Wheat, orchards, pigs, cattle, and horses remain regionally limited in the Americas, with escaped livestock producing ecological conflict.
+
+#### 3.13 Actual-history comparison
+
+| Subject | Actual history, 1576–1626 | Toro timeline |
+|---|---|---|
+| Iberia | Portuguese crisis followed by the Habsburg Iberian Union | Leonor's Three Crowns survive an orderly female succession under Isabel |
+| England | Elizabethan Protestant settlement and Stuart succession | Surviving Tudor dynasty maintains a Catholic-humanist royal settlement |
+| Scotland | Stuart king inherits England in 1603 | Independent Stuart monarchy retains only a collateral English claim |
+| Low Countries | Dutch Revolt produces an independent republic | Scheldt Compact creates an autonomous federation under nominal Habsburg sovereignty |
+| Central Europe | Thirty Years' War begins | Shorter Imperial Compacts war ends in a limited Austrian victory |
+| North America | English, French, and Dutch territorial colonies begin | Small foreign quarters remain under Indigenous host sovereignty |
+| New England | Epidemic depopulation facilitates settler occupation | Severe epidemic occurs, but political survival prevents a settler land rush |
+| Saint Lawrence | Laurentian peoples disappear from European accounts | Laurentian diaspora survives through multilingual communities and river institutions |
+| Print | Missionary and colonial presses expand slowly | Indigenous-controlled presses become diplomatic and cultural institutions |
+| Religion | European missions seek conversion and confessional control | Tadoussac Dialogues subject rival Christian claims to Indigenous criticism |
+| Medicine | Atlantic epidemic knowledge remains poorly coordinated | Port compacts standardize records, quarantine, and limited inoculation experiments |
+| Brazil | Sugar plantation complex expands rapidly | Fortified settlements and sugar experiments remain limited |
+| Poland-Lithuania | Approaches its height before seventeenth-century devastation | Similar strength and later crisis, but long-term survival becomes possible without Prussia |
+
+#### 3.14 Plausibility audit
+
+**Strong elements**
+
+- Leonor's decades of preparation, Isabel's adulthood, widowhood, children, and her brothers' public support make a second reigning queen plausible.
+- A surviving Tudor line follows naturally once Catherine's marriage and the historical sequence of childless heirs are removed.
+- Indigenous societies have strong incentives to appropriate writing and print for diplomacy, law, memory, and criticism while retaining older forms of authority.
+- Treaty ports remain credible because they are small, dependent municipalities rather than sovereign settler colonies.
+- Contact medicine reduces mortality unevenly without preventing severe epidemics.
+- Early inoculation remains plausible only as hazardous experiments transmitted through existing African and Asian networks.
+- Polish-Lithuanian cavalry, Iberian support, Safavid pressure, and Protestant fragmentation collectively explain Austria's limited victory.
+- Delayed Brazil results from several reinforcing political, demographic, financial, military, and epidemiological constraints.
+
+**Continuing constraints**
+
+- Port autonomy derives from host nations and must not be projected backward as modern city-state sovereignty.
+- No single written standard represents all Indigenous languages or societies; print can distort, expose, and privilege as well as preserve.
+- The Tadoussac Dialogues are comparative criticism, not evidence of rapid mass Christian conversion.
+- Inoculation does not become reliable policy before the technical knowledge, controlled practice, and political trust exist.
+- Isabel's successful reign manages but does not erase Portuguese, Castilian, and Aragonese rivalry.
+- Protestant belief remains significant in England and Europe even when Protestant political leagues fail.
+- Poland-Lithuania's survival requires later reform and favorable balance-of-power conditions; the Commonwealth still suffers major crises.
+- The absence of Prussia redistributes military development rather than preventing it.
+
+**Overall verdict:** the period forms a credible third stage of divergence. Its central achievement is the institutionalization of negotiated contact: Isabel turns personal union into durable composite monarchy, while northern councils turn foreign residence, epidemic control, translation, and religious argument into relationships governed by compact. The same institutions that preserve political plurality also plant later conflicts over whether imperial governments honor the reciprocal obligations they demand from others.
+
 
 ### 1626–1676 — The Second Wave
 
@@ -271,8 +440,8 @@ There is no Potosí or Mexican silver flood. The Western Crowns depend heavily u
 - Indigenous printers, translators, jurists, clan leaders, diplomats, and theologians become the principal authors of a distinct American Christianity.
 - New doctrines emphasize accountable leadership, covenant as reciprocal obligation, council government, the moral limits of property claims, sanctuary, and the coexistence of overlapping sovereignties.
 - These ideas draw differently on the traditions of particular Indigenous societies; they are not merely European Protestantism in Indigenous dress.
-- Small English and French colonies remain coastal and politically constrained. Dutch and German commercial enclaves add competing sources of weapons, credit, print, and diplomatic recognition.
-- England reaches a durable **Stuart Settlement** rather than experiencing the historical Civil Wars. The crown bargains with a narrower Protestant opposition and preserves more royal power.
+- English- and French-speaking port communities remain coastal and politically constrained within larger Indigenous polities. Dutch and German commercial quarters add competing sources of weapons, credit, print, and diplomatic recognition.
+- England's surviving dynasty maintains the **Tudor Concord** rather than experiencing the historical Civil Wars. The crown bargains with a narrower Protestant opposition and preserves more royal power.
 - Portuguese settlement in Brazil begins to accelerate, especially where sugar cultivation can be protected by naval power.
 
 ### 1676–1726 — Plantation expansion and sanctuary conflict
@@ -295,7 +464,7 @@ There is no Potosí or Mexican silver flood. The Western Crowns depend heavily u
 - Historical thinkers such as Locke, Montesquieu, and Rousseau may still exist, but their biographies, patrons, targets, and major works differ. Their functions should be redistributed across a wider Atlantic network rather than copied unchanged.
 - Abolitionist reasoning develops earlier as a constitutional and jurisdictional argument, though economic emancipation remains fiercely resisted.
 - The Western Crowns become overextended: naval commitments, plantation defense, war debt, court rivalry, and unequal representation aggravate Portuguese–Castilian–Aragonese tensions.
-- Small northern European colonies begin demanding more autonomy, usually in alliance with or dependence upon neighboring Indigenous powers.
+- Some northern foreign-chartered municipalities demand greater local autonomy, usually while remaining integrated with or dependent upon surrounding Indigenous powers.
 
 ### 1776–1826 — The revolutionary age
 
@@ -305,10 +474,10 @@ There is no Potosí or Mexican silver flood. The Western Crowns depend heavily u
 - The Portuguese Revolution combines a fiscal crisis, colonial revolt, abolitionist and sanctuary politics, provincial constitutionalism, and conflict over the unequal Western Crowns.
 - A counter-revolutionary military commander rises in a role analogous to Napoleon: defending part of the Revolution, centralizing it, conquering neighboring territories, and eventually exhausting the state. Whether this figure is Portuguese, Castilian, colonial, or of mixed Atlantic origin remains open.
 - The final settlement produces some form of **Iberian Federation**, constitutional monarchy, or republican federation rather than restoring the old Monarchy of the Ocean intact.
-- England’s Stuart order initially survives the Portuguese upheaval. Third-Wave preachers, veterans, printers, abolitionists, and colonial agitators then carry the crisis into Britain.
+- England’s Tudor order initially survives the Portuguese upheaval. Third-Wave preachers, veterans, printers, abolitionists, and agitators from English-speaking American ports then carry the crisis into Britain.
 - The delayed **English Civil War**, provisionally c. 1790–1830, is longer and more destructive than the historical seventeenth-century conflict. It combines religious, parliamentary, colonial, class, and national struggles.
-- People analogous in social role to figures of the historical American Revolution agitate simultaneously for autonomy in England’s small colonies and constitutional transformation in the metropole.
-- A **Commonwealth of the Isles** or comparable post-Stuart settlement emerges. Its final borders and treatment of Ireland, Scotland, and Wales remain open.
+- People analogous in social role to figures of the historical American Revolution agitate simultaneously for greater autonomy in English-speaking American municipalities and constitutional transformation in the metropole.
+- A **Commonwealth of the Isles** or comparable post-Tudor settlement emerges. Its final borders and relationship with independent Stuart Scotland, Ireland, and Wales remain open.
 
 ### 1826–1876 — The Atlantic Spring and industrial multipolarity
 
@@ -551,18 +720,18 @@ These questions should be settled during later fifty-year reviews:
 1. How long does Joanna remain politically active after Henrique I/V’s accession in 1495?
 2. What exact constitution governs the Western Crowns between 1495 and Leonor’s reforms?
 3. What happens to Isabella and Ferdinand’s children and descendants, and which branches support Leonor’s enemies?
-4. Who are Leonor’s mother, husband, principal ministers, and rival claimants?
+4. Who are Leonor’s mother, principal ministers, and rival claimants?
 5. Which Kalinago leaders and communities oppose the Guadeloupe expedition, and who commands its French-Aragonese fleet?
-6. Which Indigenous nations become the first major northern treaty powers and printing centers?
+6. Which particular councils, families, and individuals lead the first northern treaty powers and printing centers?
 7. Which languages become the major print, medical, and diplomatic languages of the Covenant tradition?
-8. Where are the durable English, French, Dutch, Basque, Breton, and German treaty ports?
-9. How do contact medicine, quarantine law, and inoculation develop after 1576?
-10. What are the institutions and doctrines of the Stuart Settlement?
+8. How do the named treaty ports change as they become municipalities within larger American nations and federations?
+9. How do contact medicine, quarantine law, and inoculation develop after 1626?
+10. How does the Tudor Concord change under later monarchs, and which disputes remain unresolved?
 11. Which African states and communities shape or resist the delayed plantation-slave system?
 12. What are the belligerents and settlements of each Caribbean Navigation War?
 13. Who fills the altered intellectual roles associated with Locke, Montesquieu, and Rousseau?
 14. Where precisely does the Portuguese Revolution begin, and who becomes its counter-revolutionary military ruler?
-15. What replaces the Stuart monarchy, and what becomes of Ireland, Scotland, and Wales?
+15. What replaces the Tudor monarchy in England, and what becomes of its relationship with independent Stuart Scotland, Ireland, and Wales?
 16. What are the principal American great powers by 1900?
 17. Which state or firm pioneers effective heavy land artillery around 1922?
 18. What is the final joining order and alliance structure of the Great Atlantic War?
