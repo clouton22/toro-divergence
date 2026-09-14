@@ -42,6 +42,7 @@ Prefer causal ranges over unjustifiably precise dates. Preserve regional variati
 - Portugal's naval leadership and Castile's demographic weight remain a persistent tension.
 - Brazil is known from around 1500 even though large-scale colonization is delayed.
 - Epidemics remain severe; Indigenous resilience comes principally from staggered contact and institutional survival.
+- Mixed Atlantic communities gain epidemiological experience rather than inherited blanket immunity; contact medicine develops empirically before germ theory.
 - The European Reformation initially spreads and is contained only through later political events.
 - American New Protestantism becomes Indigenous-authored and internally diverse.
 - Hurricanes reinforce southern avoidance but cannot sustain it without naval, legal, economic, and military causes.
@@ -63,4 +64,4 @@ For substantial repository changes, prefer a focused branch and pull request unl
 
 ## Current task
 
-The next unreviewed period is **1526–1576**.
+The next unreviewed period is **1576–1626**.

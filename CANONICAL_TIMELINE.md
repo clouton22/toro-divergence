@@ -2,9 +2,9 @@
 
 ## Canonical Timeline and Continuity Guide
 
-**Version:** 0.1  
+**Version:** 0.3  
 **Divergence point:** 1 March 1476  
-**Current review horizon:** 1526  
+**Current review horizon:** 1576  
 **Outline horizon:** late 1930s  
 
 This file is the working canon for an alternate history in which Portugal and the supporters of Joanna of Castile win a decisive victory at the Battle of Toro. The result is not an instant Portuguese annexation of Castile, but a durable dynastic union that redirects European state formation, Atlantic exploration, religious change, colonialism, slavery, and revolutionary politics.
@@ -74,19 +74,184 @@ Avoid treating Indigenous America as a single civilization or unified bloc. Name
 
 A decisive Portuguese–Juanist victory at Toro preserves Joanna’s Castilian claim. Portugal and Castile enter a dynastic union under Afonso V and Joanna. Their son Henrique later joins the crowns without abolishing their separate laws and institutions. Granada falls later than in actual history; there is no 1492 expulsion on the historical model. Portuguese voyages reach India and Brazil, while English and French mariners slowly establish northern Atlantic routes. By 1526 the Americas have contact zones but no European territorial empire comparable to historical Spanish America.
 
-### 1526–1576 — Wars of consolidation
+### 1526–1576 — The Age of Broken Leagues
 
-**Status: provisional canon.**
+**Status: reviewed canon.**
 
-- The Reformation remains vigorous in German, Swiss, Low Country, Scandinavian, and English pockets, but it lacks the historical anti-Habsburg coalition structure.
-- France, Austria, Portugal, Aragon, and shifting German princes intervene repeatedly in succession disputes inside the Holy Roman Empire.
-- The **First Iberian Coalition War** occurs provisionally in the 1520s or 1530s. Its exact cause, belligerents, and dates require review.
-- A first substantial wave of Protestant refugees, printers, translators, artisans, and dissident clergy reaches northern America.
-- One or more ambitious Caribbean expeditions are destroyed by hurricanes, disease, supply failure, and local resistance. Their destruction creates a durable cultural fear of the southern passages but does not alone explain the delay in colonization.
-- A **Second War of Castilian Succession**, provisionally c. 1548–1557, ends in another victory for the Western Crowns. Aragon is subordinated, absorbed, or bound into the monarchy; the exact settlement remains open.
-- A treaty provisionally called the **Treaty of Bordeaux** recognizes or tolerates an Iberian claim to regulate navigation south of a designated Atlantic line. The name, date, and legal terms require review.
+The period's central development is not the extinction of the Reformation but the failure of Protestant communities to secure a durable, coordinated political bloc. Italian, Hungarian, Aragonese, German, religious, and Atlantic disputes repeatedly merge into mixed-confession wars. Rulers tolerate reformers when they need allies and abandon them when peace becomes possible. These “Broken Leagues” leave Protestantism geographically substantial but politically insecure and generate the first major religious migrations across the Atlantic.
 
-**Long-term payoff:** military victory, treaty law, convoy capacity, port access, charts, and intimidation combine with genuine environmental danger to keep rival settlement concentrated in the north.
+#### The altered Italian settlement, 1525–1528
+
+The Battle of Pavia still occurs in 1525, but without Spanish Habsburg troops, finance, and logistics it does not produce the historical catastrophic French defeat or the captivity of Francis I. The fighting ends indecisively or with an imperial withdrawal, leaving France ascendant around Milan and threatening Genoa.
+
+The Ottoman victory at Mohács in 1526 still destroys the independent Hungarian monarchy. Austria contests Hungary and Bohemia while facing Ottoman pressure. France and independent Aragon exploit Austrian weakness. Henrique—Henrique I of Portugal and Enrique V of Castile—fears that French control of Genoa combined with Aragonese hostility would encircle Western Crown commerce.
+
+In 1528 Henrique joins Austria, Genoa, several Italian states, and an intermittently supportive papacy in the **League of Genoa**. France, Aragon, John Zápolya’s Hungarian faction, selected Italian powers, and shifting German princes form the opposing **Lyonese League**. Religious allegiance does not determine either coalition.
+
+#### First War of the Leagues, 1529–1537
+
+The war spreads across northern Italy, the Pyrenees, the western Mediterranean, Germany, Bohemia, and Hungary:
+
+- France attempts to hold Milan and dominate Genoa.
+- Western Crown fleets supply Genoa and land Castilian forces on the Ligurian coast.
+- Aragon attacks the eastern approaches to Castile and fights Portuguese-led squadrons around the Balearics, Sardinia, and Sicily.
+- Austria bargains with Lutheran princes for help against France, Zápolya, and the Ottomans.
+- France subsidizes other reforming princes but abandons them whenever papal or Italian support becomes more useful.
+
+The war breaks Protestant political coordination. Some Lutheran rulers support Austria in exchange for temporary toleration; others accept French money; still others fear neighboring Protestant rivals more than Catholic sovereigns. Merchant cities that support opposing coalitions suffer repeated embargoes.
+
+The **Peace of Genoa** in 1537 removes France from Milan without decisively defeating it, stabilizes Austria’s precarious position in Bohemia and western Hungary, and imposes restrictions on Aragonese naval power. German religion is left to temporary local arrangements. Austria recognizes limited Western Crown inspection rights on specified Iberian and African routes, but no state recognizes ownership of an ocean.
+
+#### Religious consolidation and the First Wave, 1537–1548
+
+England has no historical royal Reformation. Catherine of Aragon’s life and marriages were displaced by her parents’ defeat at Toro, so Henry VIII never confronts the same annulment crisis. Lollardy, humanism, Tyndale’s Bible, imported Lutheran works, anticlericalism, and royal ambition survive, but reform remains persecuted or intermittently tolerated rather than state policy.
+
+The Western Crowns also become less tolerant. Wartime fears of Protestant printing, foreign agents, divided merchants, converso networks, and Castilian resistance lead Henrique to establish a **Royal Tribunal of the Faith and Peace** during approximately 1538–1542. It differs from the historical Spanish Inquisition: it is later, justified initially as an instrument of political security, and separately contested under Portuguese and Castilian law. It targets unauthorized printers, Protestants, radical reformers, political dissidents, conversos, and others accused of disloyalty.
+
+Jewish and converso communities that survived the missing expulsions begin a gradual diaspora through commercial and family networks. They join English, French, Low Country, and German-speaking reformers, dissident Catholics, artisans, sailors, physicians, translators, and printers moving through Bristol, western French ports, the Low Countries, and Scandinavia.
+
+Between the late 1530s and 1576, several thousand migrants cross the Atlantic over decades. They do not arrive as a single organized colonizing people. By 1576 a few presses operate in northern contact communities, printing contracts, port regulations, sailing notices, vocabularies, diplomatic statements, prayers, and short scripture translations. The mature Indigenous-language print culture belongs to later periods.
+
+#### The northern contact world, 1526–1576
+
+English, French, Basque, Breton, and Low Country activity concentrates around Newfoundland, the Strait of Belle Isle, the Gulf of St. Lawrence, Mi’kma’ki, the Bay of Fundy, New England harbors, and the lower Saint Lawrence. European ventures enter a maritime system already used by Mi’kmaq, Innu, Saint Lawrence Iroquoian, and other peoples.
+
+The first durable European communities are **host settlements**, not sovereign colonies:
+
+- Local Indigenous authorities grant permission to winter, trade, repair ships, or maintain warehouses.
+- Host nations regulate land use and can expel residents or seize facilities after serious violations.
+- Europeans provide metal goods, cloth, ship repair, firearms, print, and overseas market access.
+- Hosts provide food, pilots, interpreters, diplomacy, and military protection.
+- Mixed households, adoption, fosterage, and intermarriage create politically important border families.
+
+Early centers include French-speaking communities associated with the Saint Lawrence, English stations in Newfoundland, Basque and Breton stations in the Gulf, and at least one mixed port under Mi’kmaq protection. These are regional relationships, not mature territorial federations.
+
+#### Epidemics, mixed communities, and contact medicine
+
+Epidemics intensify from the 1540s as repeated voyages and winter residence increase. Individual Saint Lawrence and Atlantic communities experience catastrophic mortality, abandonment, migration, amalgamation, or political realignment. Indigenous political survival remains uneven; no people is automatically preserved.
+
+Intermarriage helps some border communities, but not by transmitting a simple hereditary “European immunity.” Acquired immunity is not inherited. Mixed coastal populations gain a limited advantage through repeated exposure, larger pools of immune survivors, temporary maternal protection of infants, experienced caregivers, diversified kin networks, and familiarity with the connection between ships and illness. Intermarriage also increases contact and can initially accelerate transmission.
+
+By the later sixteenth century, Atlantic contact belts become epidemiologically distinct from less-connected interiors. Their inhabitants may survive later waves at higher rates, while simultaneously carrying infections inland. The decisive advantage is accumulated exposure, organization, and knowledge; genetic admixture and natural selection remain slower, secondary influences.
+
+The northern ports also develop an empirical discipline provisionally called **contact medicine**. European quarantine practices, contemporary contagion theories, Indigenous controlled movement and isolation, botanical knowledge, and the observations of mixed families are compared across small, identifiable communities. Practitioners and councils record:
+
+- ships, origins, and arrival dates;
+- the first affected households;
+- movement of cases;
+- handling of clothing, bedding, and cargo;
+- differences between survivors, newcomers, children, and inland visitors;
+- the effects of dispersal, isolation, and continued trade.
+
+Its practitioners disagree about causes: invisible seeds, corrupted air, bodily imbalance, spiritual disorder, and contaminated objects coexist as explanations. Nevertheless, they develop effective rules before possessing germ theory. Ports create isolation grounds, use survivors as caregivers, exchange warnings, and begin treating concealed shipboard illness as a diplomatic offense. Printing turns mortality lists, quarantine notices, and case reports into a shared Atlantic record.
+
+#### The Guadeloupe Catastrophe, September 1552
+
+During the approaching Iberian succession crisis, France and Aragon sponsor a large expedition of approximately 12–16 ships and 1,500–2,500 soldiers, settlers, sailors, and dependents. It is intended to establish a fortified harbor around Guadeloupe and the Îles des Saintes, support privateering, challenge Western Crown navigation claims, and settle veterans and religious dissidents.
+
+The expedition fails cumulatively. Portuguese intelligence identifies its destination, but Portuguese forces do not destroy the settlement themselves. Supply ships become separated, and Kalinago resistance denies the newcomers secure access to food, water, and inland shelter. Fever and contaminated water weaken the expedition. In September 1552, a major hurricane catches its ships in exposed and unfamiliar anchorages around Guadeloupe and the Îles des Saintes, destroying or stranding most of the fleet. Portuguese patrols arrive afterward and capture many exhausted survivors.
+
+Religious and political propaganda turns the event into a warning that southern expeditions can destroy dynastic finances. The catastrophe discourages large crown-sponsored ventures but does not stop smugglers, private traders, pirates, fishermen, or small exploratory voyages.
+
+#### Second War of Castilian Succession, or War of the Three Crowns, 1548–1558
+
+Henrique’s sole surviving adult son, **Afonso, Prince of Portugal and Castile**, dies from infectious illness in 1547. He leaves one surviving legitimate child: **Leonor of Aviz-Trastámara**, born around 1532. Her grandfather had prepared her to inherit but also established a carefully balanced Council of Tutelage and Government whose Portuguese, Castilian, clerical, urban, financial, and foreign-connected members expect to control her.
+
+When Henrique dies in 1549, seventeen-year-old Leonor succeeds as **Leonor I of Portugal and Leonor I of Castile**. Castilian law can accommodate her succession, but Portuguese elites divide over a young female sovereign. A collateral male-line Aviz prince claims Portugal. Aragonese claimants invoke descent from Ferdinand and Isabella; France supports factions likely to divide the Western Crowns; and some Castilian nobles seek to end Portuguese control of common institutions.
+
+Contemporaries generally call the conflict the **Second War of Castilian Succession**, deliberately connecting it to Joanna’s victory after Toro. Later historians prefer **War of the Three Crowns**, reflecting its Portuguese, Castilian, and Aragonese theaters and its ultimate constitutional result. Both names are canonical and should be used according to context.
+
+The loyalist coalition includes Leonor and her council, Portuguese naval institutions, Castilian towns dependent on stable commerce, loyalist nobles, Austria, Burgundian Habsburg interests, Genoese financiers, and eventually the papacy. Its opponents include Aragon, France, the collateral Portuguese claimant, partitionist Castilian magnates, displaced Isabelline interests, and opportunistic German princes.
+
+Leonor begins the war as a guarded queen whose council and prospective husbands are expected to govern for her. A conspiracy or enemy advance forces her court to flee central Castile during 1551–1552. After reaching loyal territory, she assumes control of appointments and correspondence, tours loyal cities, negotiates loans, supervises supply, arbitrates between Portuguese and Castilian commanders, and uses pardons and guarantees of local law to divide the opposition. Marriage negotiations with French, Austrian, Aragonese, Burgundian, English, and Aviz candidates become diplomatic instruments rather than commitments.
+
+The loyalists win because they control the common fleet and overseas customs, retain substantial Castilian urban support, receive Austrian pressure against France, and blockade Aragonese commerce. France cannot recover from simultaneous continental commitments and the Guadeloupe losses.
+
+Aragon is not annexed as an ordinary province. In 1558–1560 its Cortes are compelled to recognize Leonor—now **Leonor I of Aragon**—while retaining separate fueros, taxation, succession oaths, and an Aragonese council. The resulting **Union of the Three Crowns** controls nearly all Iberia and appears stronger, but is even more difficult to govern.
+
+Leonor strengthens the monarchy by making cooperation routine rather than abolishing the crowns. She develops a Council of the Three Crowns, a common diplomatic secretariat, coordinated convoy administration, negotiated common war taxes, regular conferences among representatives of the three Cortes, expanded royal posts, and arbitration for disputes crossing crown boundaries. Local law, taxation, estates, and offices remain separate.
+
+After victory, Leonor marries a junior foreign prince under a restrictive settlement ratified separately by the three crowns. He is a consort without independent royal authority; he controls no crown revenue or appointments; their children belong to the House of Aviz-Trastámara and cannot unite Iberia with his foreign inheritance. His identity remains open pending the next review, but Leonor has surviving issue and avoids immediately recreating the succession crisis.
+
+Leonor’s father’s death makes her an important patron of contact medicine. Her ordinances require armies and ships to report outbreaks, ports to maintain arrival and mortality records, quarantined communities to receive provisions, and royal captains to respect negotiated health rules. She remains a committed Catholic supporter of the Royal Tribunal: empirical public health and religious toleration do not advance together.
+
+Leonor’s long reign is expected to continue until approximately 1598–1605. She becomes known as **Leonor of the Three Crowns**, praised as a maritime guardian and constitutional arbiter while condemned by different traditions as conqueror, censor, or architect of imperial centralization.
+
+#### Treaty of Bordeaux, 1559–1560
+
+Exhausted France accepts a limited Atlantic settlement:
+
+- no crown-sponsored armed settlement south of approximately 30 degrees north;
+- recognition of named Iberian islands and the Western Crown claim to Brazil;
+- inspection rights in specified routes and allied ports;
+- restrictions on sales of warships and heavy weapons to unauthorized southern ventures;
+- compensation for seized vessels;
+- tolerated French activity around Newfoundland and the Saint Lawrence;
+- ambiguous exemptions for fishing, private trade, and emergency shelter.
+
+England, Scandinavia, and independent cities are not automatically bound. Bordeaux influences them indirectly because insurers and merchants risk seizure or exclusion from Iberian, African, Italian, and Asian ports. The southern system is therefore a treaty-and-port regime backed by selective naval enforcement, not an impenetrable ocean frontier.
+
+#### Europe in 1576
+
+The Reformation is substantial but fragmented:
+
+- Scandinavia is the strongest Protestant region.
+- Lutheran and radical German enclaves survive without an empire-wide legal settlement.
+- Swiss cities and Geneva remain durable reform centers.
+- The Low Countries are religiously mixed and politically unstable under Burgundian-Habsburg authority.
+- French Protestant minorities survive intermittent civil conflict and royal repression.
+- England remains officially Catholic or confessionally ambiguous, with extensive clandestine and exile communities.
+- The Western Crowns increasingly identify common monarchy with Catholic order.
+
+There is no alternate equivalent of the 1555 Peace of Augsburg. The Empire instead accumulates temporary exemptions, city charters, private toleration agreements, confiscations, restored bishoprics, and mixed-confession commercial leagues. Religious communities endure, but their protection is contingent.
+
+#### Africa, Asia, and the global economy
+
+The Western Crowns possess more resources than historical Portugal but fight more expensive European wars. Their overseas empire remains a chain of ports, forts, patrols, tributary relationships, and alliances. It maintains Cape Verde, selected West and Central African relationships, Mozambique, Goa, Hormuz, Malacca, access to Japan, an enclave resembling Macao, and small Brazilian stations. It abandons some costly Moroccan positions.
+
+São Tomé and other Atlantic islands retain plantation slavery. Enslaved Africans are carried to Iberia, the islands, and limited Brazilian settlements, but the absence of a mature Caribbean or Brazilian plantation complex keeps volumes below their later peak.
+
+There is no Potosí or Mexican silver flood. The Western Crowns depend heavily upon customs, sales taxes, monopoly revenue, and Jewish, converso, Genoese, German, and Low Country credit. European inflation is reduced or altered; Japanese silver becomes more important in Asian trade. Fiscal constraint explains why the monarchy can win wars and enforce selected routes but cannot colonize every coast it claims.
+
+**Long-term payoff:** the Broken Leagues create a Protestant memory of unreliable European sovereigns; host settlements normalize Indigenous jurisdiction over Europeans; mixed communities and contact medicine make the Atlantic coast epidemiologically and intellectually distinctive; the Three Crowns become powerful but brittle; Bordeaux creates disputed navigation law; and missing silver ties imperial ambition to chronic debt.
+
+#### Comparison with actual history
+
+| Subject | Actual history | Canon by 1576 |
+| --- | --- | --- |
+| Pavia and Italy | Francis I is captured in a decisive Habsburg victory | Pavia is indecisive or ends in imperial withdrawal; France begins the period ascendant |
+| Habsburg power | Charles V combines Spain, Burgundy, Austria, Italy, and an expanding American empire | Habsburg strength is Austrian and Burgundian; it lacks Spain and American bullion |
+| German religion | The Schmalkaldic conflict leads to the Peace of Augsburg | Mixed-confession wars produce temporary local settlements and no general legal recognition |
+| England | Henry VIII’s annulment crisis produces a royal break with Rome | Catherine of Aragon’s altered life removes the same crisis; reform remains unofficial |
+| Iberia | Castile and Aragon already form Spain’s core | Portugal and Castile defeat an Aragonese-backed succession challenge and form the Three Crowns |
+| North America | Fisheries, voyages, and failed French royal colonies | Denser multipolar contact produces Indigenous-governed host settlements |
+| Disease | Epidemics accompany expanding colonial occupation | Severe but staggered epidemics produce differentiated coastal contact belts and early contact medicine |
+| Caribbean | Center of Spanish colonial power | No durable European colony; a great expedition fails at Guadeloupe |
+| Brazil | Portuguese settlement and sugar cultivation expand | Trading and defensive stations remain limited |
+| Silver | Mexico and Potosí transform imperial and global finance | No comparable American silver flow; credit and monopoly income remain critical |
+
+#### Plausibility audit
+
+**Strong elements**
+
+- Removing Spanish resources naturally changes Pavia, Italy, and Austrian bargaining power.
+- Mixed-confession coalitions can fragment Protestant political coordination without erasing belief.
+- The absence of Catherine of Aragon’s historical marriage removes the exact mechanism of Henry VIII’s break with Rome.
+- Seasonal fishing networks provide credible channels for gradual migration and Indigenous-governed settlement.
+- Repeated, documented epidemics can advance practical contagion control without requiring anachronistic germ theory.
+- Competing female, collateral, and displaced dynastic claims can plausibly turn a composite monarchy’s succession crisis into an international war.
+- Missing American bullion imposes a useful, historically credible limit on imperial capacity.
+
+**Continuing constraints**
+
+- Scandinavia and protected Swiss or German reform centers cannot be suppressed merely by Iberian victories.
+- Contact-zone intermarriage cannot transmit acquired immunity genetically; its near-term effects remain social, demographic, and epidemiological.
+- Contact medicine improves outcomes unevenly and may make connected ports more effective disease carriers.
+- The Guadeloupe expedition fails through several compounding causes; its hurricane cannot deter every private venture.
+- The Three Crowns retain separate laws and institutions. Military victory does not create a sixteenth-century nation-state.
+- Bordeaux binds signatories and commercial partners imperfectly; it is repeatedly violated and must be renegotiated or enforced.
+
+**Overall verdict:** the period forms a credible second-stage divergence once its wars are treated as connected struggles and Protestant “failure” is defined as the loss of secure political coordination. Its most innovative but still plausible development is contact medicine: an empirical public-health tradition founded on unusually visible comparisons among ships, mixed coastal communities, and less-exposed interiors.
 
 ### 1576–1626 — The northern contact world
 
@@ -383,26 +548,25 @@ Future additions should observe these rules unless this document is deliberately
 
 These questions should be settled during later fifty-year reviews:
 
-1. What is Henrique’s regnal name in Portugal and Castile, and does Joanna remain active after 1495?
-2. What exact constitution governs the Western Crowns after 1495?
-3. What happens to Isabella and Ferdinand’s children in the alternate succession?
-4. How and when is Aragon incorporated, subordinated, or federated?
-5. What causes the First Iberian Coalition War and the Second War of Castilian Succession?
-6. What is the actual name and boundary created by the provisional Treaty of Bordeaux?
-7. Which Caribbean expeditions are destroyed, by whom, and in which hurricanes?
-8. Which Indigenous nations become the first major northern treaty powers and printing centers?
-9. Which languages become the major print and diplomatic languages of the Covenant tradition?
-10. Where are the durable English, French, Dutch, and German treaty ports?
-11. What are the institutions and doctrines of the Stuart Settlement?
-12. Which African states and communities shape or resist the delayed plantation-slave system?
-13. What are the belligerents and settlements of each Caribbean Navigation War?
-14. Who fills the altered intellectual roles associated with Locke, Montesquieu, and Rousseau?
-15. Where precisely does the Portuguese Revolution begin, and who becomes its counter-revolutionary military ruler?
-16. What replaces the Stuart monarchy, and what becomes of Ireland, Scotland, and Wales?
-17. What are the principal American great powers by 1900?
-18. Which state or firm pioneers effective heavy land artillery around 1922?
-19. What is the final joining order and alliance structure of the Great Atlantic War?
-20. Are Pittsburgh/Forks, Concord House, Adrian Kessel, and the Laurentian Union final names?
+1. How long does Joanna remain politically active after Henrique I/V’s accession in 1495?
+2. What exact constitution governs the Western Crowns between 1495 and Leonor’s reforms?
+3. What happens to Isabella and Ferdinand’s children and descendants, and which branches support Leonor’s enemies?
+4. Who are Leonor’s mother, husband, principal ministers, and rival claimants?
+5. Which Kalinago leaders and communities oppose the Guadeloupe expedition, and who commands its French-Aragonese fleet?
+6. Which Indigenous nations become the first major northern treaty powers and printing centers?
+7. Which languages become the major print, medical, and diplomatic languages of the Covenant tradition?
+8. Where are the durable English, French, Dutch, Basque, Breton, and German treaty ports?
+9. How do contact medicine, quarantine law, and inoculation develop after 1576?
+10. What are the institutions and doctrines of the Stuart Settlement?
+11. Which African states and communities shape or resist the delayed plantation-slave system?
+12. What are the belligerents and settlements of each Caribbean Navigation War?
+13. Who fills the altered intellectual roles associated with Locke, Montesquieu, and Rousseau?
+14. Where precisely does the Portuguese Revolution begin, and who becomes its counter-revolutionary military ruler?
+15. What replaces the Stuart monarchy, and what becomes of Ireland, Scotland, and Wales?
+16. What are the principal American great powers by 1900?
+17. Which state or firm pioneers effective heavy land artillery around 1922?
+18. What is the final joining order and alliance structure of the Great Atlantic War?
+19. Are Pittsburgh/Forks, Concord House, Adrian Kessel, and the Laurentian Union final names?
 
 ---
 
@@ -485,4 +649,3 @@ For formal research passes, replace general-reference links with primary sources
 - A reviewed event should be revised only when new causal analysis exposes a contradiction or a better solution.
 - When revising a foundational event, search the “Long-term threads” table and update every dependent payoff.
 - Prefer ranges and uncertainty where the exact year has not been earned by the causal work.
-

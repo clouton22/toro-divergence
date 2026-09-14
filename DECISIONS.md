@@ -301,7 +301,7 @@ The Pittsburgh/Forks corridor acts as a reversed Vicksburg; a march across Penns
 
 Each review covers chronology, differences from actual history, planted and paid-off threads, Iberia, Europe, the Americas, wider-world reverberations, and a critical plausibility audit.
 
-Only **1476–1526** has completed this process. Later events are outline-level canon.
+The periods **1476–1526** and **1526–1576** have completed this process. Later events remain outline-level canon.
 
 ### D-036 — The repository is authoritative project memory
 
@@ -315,17 +315,175 @@ Use the latest committed repository files instead of relying on conversational m
 
 ---
 
-## Next review: 1526–1576
+## Decisions from the 1526–1576 review
+
+### D-037 — Pavia does not produce the historical Habsburg triumph
+
+**Status:** Canonical
+
+Without Spanish Habsburg troops, revenue, and logistics, the 1525 battle is indecisive or ends in an imperial withdrawal. Francis I is not carried into Spanish captivity, and France begins the next period ascendant in northern Italy.
+
+**Reasoning:** The actual result depended upon a composite Habsburg military system that does not exist in this timeline.
+
+### D-038 — The First War of the Leagues connects the period's crises
+
+**Status:** Canonical; exact secondary campaigns remain open
+
+The 1529–1537 war joins disputes over Milan, Genoa, Aragon, Hungary, German religion, and Atlantic inspection. The Western Crowns, Austria, Genoa, Italian allies, and an intermittent papacy oppose France, Aragon, Zápolya, and shifting German and Italian allies.
+
+**Reasoning:** One connected crisis is more credible than separate convenient wars independently producing every required result.
+
+### D-039 — Protestant containment means broken patronage
+
+**Status:** Canonical
+
+The Reformation remains strong in Scandinavia, Swiss centers, German enclaves, the Low Countries, France, and English underground communities. Mixed-confession alliances repeatedly trade away religious guarantees, and no Peace of Augsburg gives Protestant territories comprehensive standing.
+
+**Rejected:** Immediate or complete Catholic reconquest of northern Europe.
+
+### D-040 — England has no historical royal Reformation
+
+**Status:** Canonical
+
+Catherine of Aragon's displaced marital history removes Henry VIII's historical annulment crisis. English reform survives through Lollardy, humanism, vernacular print, anticlericalism, and exile rather than becoming royal policy.
+
+**Payoff:** A narrower Protestant movement, stronger monarchy, and the later Stuart Settlement.
+
+### D-041 — Iberian repression emerges from wartime centralization
+
+**Status:** Canonical
+
+Henrique creates the Royal Tribunal of the Faith and Peace around 1538–1542. It begins as a disputed common instrument against foreign agents, unauthorized print, Protestantism, political dissent, and alleged commercial disloyalty. It later becomes the institutional foundation of Western Crown Catholicism.
+
+### D-042 — First-Wave migration is cumulative
+
+**Status:** Canonical
+
+Several thousand religious and political migrants cross the northern Atlantic over the late 1530s–1576. They travel through existing fishing and commercial ports rather than in one national colonizing fleet. Only a few presses exist by 1576.
+
+### D-043 — Early durable European communities are host settlements
+
+**Status:** Canonical
+
+Indigenous authorities grant Europeans conditional rights to winter, trade, repair ships, and keep warehouses. Hosts retain jurisdiction and can expel residents. Mixed households, adoption, fosterage, and interpreters bind the settlements to local politics.
+
+**Rejected:** Treating these communities as sovereign European colonies.
+
+### D-044 — Intermarriage creates a local epidemiological buffer
+
+**Status:** Canonical
+
+Mixed ancestry does not transmit acquired European immunity. Atlantic border communities gain limited protection through repeated exposure, immune survivors, temporary maternal antibodies, practiced caregiving, diversified kin networks, and knowledge of ship-associated illness. Intermarriage can also increase transmission.
+
+**Future implication:** Coastal contact belts become more resilient to repeated outbreaks while remaining dangerous conduits into less-exposed interiors. Genetic selection and admixture may matter over longer periods, but remain secondary to exposure and institutions.
+
+### D-045 — Contact medicine begins before germ theory
+
+**Status:** Canonical
+
+From the mid-sixteenth century, northern port councils, healers, physicians, mixed families, printers, and Indigenous authorities compare ship arrivals, first cases, contaminated materials, household movement, survivor status, and isolation outcomes. They retain competing causal theories but develop useful empirical public-health rules.
+
+**Future implications:**
+
+- standardized ship and mortality registers;
+- treaty clauses governing outbreaks and concealed illness;
+- port warning networks and isolation grounds;
+- survivor caregiving systems;
+- earlier comparative epidemiology;
+- earlier reception of African, Asian, and Ottoman inoculation practices;
+- an eventual acceleration of public health, statistics, and contagion theory;
+- no automatic early discovery of microorganisms, which still depends on instruments and experimental methods.
+
+### D-046 — The Guadeloupe Catastrophe creates the southern taboo
+
+**Status:** Canonical; commanders and individual Kalinago leaders remain open
+
+In September 1552, a French-Aragonese expedition of roughly 12–16 ships and 1,500–2,500 people attempts to establish a fortified base around Guadeloupe and the Îles des Saintes. Portuguese intelligence identifies its destination, but Kalinago resistance denies secure provisions and shelter. Scattered supplies, fever, contaminated water, and a hurricane destroy or strand most of the fleet. Portuguese patrols arrive afterward and capture exhausted survivors.
+
+**Reasoning:** The catastrophe becomes politically memorable because it compounds several credible failures; weather alone does not close the Caribbean.
+
+### D-047 — Leonor’s succession triggers the second war
+
+**Status:** Canonical
+
+Henrique’s sole surviving adult son, Afonso, dies from infectious illness in 1547. His only surviving legitimate child is Leonor of Aviz-Trastámara, born around 1532. Henrique dies in 1549, and seventeen-year-old Leonor succeeds as Leonor I of Portugal and Castile under a balanced Council of Tutelage and Government. A collateral male Aviz claimant, Aragonese and Isabelline claims, Castilian partitionists, and French intervention turn her succession into a multi-claimant civil and international war.
+
+Leonor develops from a guarded queen into the loyalist coalition’s active political center. She uses royal progresses, loans, pardons, guarantees of local law, appointments, supply administration, and marriage negotiations to divide her opponents.
+
+### D-048 — The loyalist victory creates the Union of the Three Crowns
+
+**Status:** Canonical
+
+The Portuguese-centered loyalists win the 1548–1558 war through Castilian urban support, Austrian pressure on France, naval control, overseas customs revenue, and the blockade of Aragon. In 1558–1560, the Aragonese Cortes recognizes the Aviz-Trastámara ruler while retaining separate fueros, taxation, succession oaths, and an Aragonese council.
+
+**Reasoning:** The outcome strengthens the common monarchy without implausibly converting Aragon into an ordinary Portuguese province. Territorial unity makes the composite state more powerful and constitutionally more brittle.
+
+The war has two canonical names. Contemporaries generally call it the **Second War of Castilian Succession**, connecting it to Joanna and Toro. Later historians prefer **War of the Three Crowns**, reflecting its theaters and settlement.
+
+### D-049 — Bordeaux creates a limited southern navigation regime
+
+**Status:** Canonical
+
+The 1559–1560 Treaty of Bordeaux bars French crown-sponsored armed settlement south of approximately 30 degrees north, recognizes named Iberian possessions and Brazil, and establishes limited inspection and arms-control provisions. Other states are not automatically bound.
+
+**Reasoning:** The regime works through ports, insurers, market access, diplomacy, and selective seizure. It is not ownership of an ocean and cannot stop private voyages.
+
+### D-050 — Missing American silver limits the Western Crowns
+
+**Status:** Canonical
+
+Without Mexican and Potosí silver, the monarchy relies upon customs, sales taxes, monopolies, and international credit. Japanese silver grows in importance to Asian commerce. Fiscal constraint explains why the Western Crowns can win selected wars and defend routes but cannot occupy every territory they claim.
+
+### D-051 — Contact medicine has long-term scientific and political effects
+
+**Status:** Canonical direction; timing of later payoffs provisional
+
+The contact-medicine networks established before 1576 should affect later reviews through:
+
+- standardized port-health records and mortality tables;
+- treaty-based public-health obligations;
+- political conflict over whether commerce can override quarantine;
+- earlier Atlantic circulation of African, Asian, and Ottoman inoculation practices;
+- improved empirical distinctions among contagious diseases;
+- public-health offices emerging from councils and port authorities;
+- theological arguments that concealment of infection violates covenant obligations;
+- tension between collective health measures and personal, commercial, or sovereign rights;
+- eventual acceleration of epidemiology and statistics;
+- continuing limits imposed by the absence of microscopes, laboratory methods, and a microbial model.
+
+This development should reduce mortality unevenly rather than prevent epidemics. Better-connected ports may become safer during repeat outbreaks but more dangerous as transmission hubs.
+
+### D-052 — Leonor becomes the architect of the strengthened monarchy
+
+**Status:** Canonical; consort’s identity open
+
+Leonor becomes Leonor I of Aragon after the loyalist victory and is later remembered as **Leonor of the Three Crowns**. She strengthens cooperation through a Council of the Three Crowns, a common diplomatic secretariat, convoy administration, negotiated war taxes, conferences among the Cortes, royal posts, and cross-crown arbitration. She does not abolish separate law, taxation, estates, or offices.
+
+After the war she marries a junior foreign prince under a settlement denying him independent royal power or revenue. Their children remain Aviz-Trastámara and are barred from joining Iberia to his foreign inheritance. Leonor has surviving issue and is expected to reign until approximately 1598–1605.
+
+**Historical analogues:** Eleanor of Aquitaine for the political danger surrounding a young territorial heiress; Isabella I for victory in a disputed succession; Elizabeth I for using suitors and royal image diplomatically; Mary, Queen of Scots as the danger Leonor avoids.
+
+**Future implications:**
+
+- Her long reign spans the 1576–1626 review and gives the Three Crowns personal continuity.
+- Her success makes common institutions depend heavily on royal arbitration, creating danger under weaker successors.
+- Her restrictive marriage compact becomes a precedent for contractual sovereignty.
+- Her father’s death makes her a patron of contact medicine, reporting requirements, quarantine provisioning, and health agreements.
+- Her support for both public health and the Royal Tribunal prevents medical empiricism from being equated with modern toleration.
+
+---
+
+## Next review: 1576–1626
 
 The next pass should resolve or develop:
 
-- the mechanism that contains European Protestantism;
-- Henrique's mature reign and the union's constitutional strains;
-- the First Iberian Coalition War;
-- Aragon's fate;
-- the first substantial refugee crossings;
-- the earliest named northern treaty ports and Indigenous partners;
-- hurricane disasters and formation of the southern taboo;
-- the Second War of Castilian Succession;
-- the legal and naval basis of the southern monopoly;
-- consequences in Africa, the Ottoman world, India, and a world without early American silver.
+- the first mature treaty ports and their governing institutions;
+- the disappearance, survival, migration, or transformation of particular Saint Lawrence communities;
+- standardization of contact-medicine records and quarantine treaties;
+- the transmission of epidemics between resilient coastal belts and less-exposed interiors;
+- the growth of Indigenous-language print and interpreter families;
+- Protestant political geography after the Broken Leagues;
+- the origins and terms of the Stuart Settlement;
+- Dutch and German participation in the northern contact world;
+- Western Crown enforcement of Bordeaux after the generation that signed it has died;
+- the first stronger pressures toward Brazilian settlement and plantation agriculture.
