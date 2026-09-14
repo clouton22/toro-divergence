@@ -64,4 +64,5 @@ For substantial repository changes, prefer a focused branch and pull request unl
 
 ## Current task
 
-The next unreviewed period is **1576–1626**.
+The next unreviewed period is **1626–1676**.
+
